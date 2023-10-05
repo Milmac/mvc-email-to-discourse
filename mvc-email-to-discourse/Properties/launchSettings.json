@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mvc-email-to-discourse": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\mille\\Downloads\\import-to-discourse-tool\\inyoforumdb_2023_08_23.xml"
+    }
+  }
+}
